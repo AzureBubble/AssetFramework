@@ -1,0 +1,27 @@
+[
+  {
+    "fileName": "Android",
+    "md5": "F13BA8EC73AA10F3747818C817BCB34A",
+    "size": 1.0
+  },
+  {
+    "fileName": "gamebundleconfig.unity",
+    "md5": "D00D11DF2866EC204858EF4A7E4E567C",
+    "size": 1.0
+  },
+  {
+    "fileName": "game_hall.unity",
+    "md5": "B371F925DF8BA38BFFB88A9810053641",
+    "size": 332.0
+  },
+  {
+    "fileName": "game_login.unity",
+    "md5": "611B6D90DB0FF2C262AFE3CD96528DA8",
+    "size": 94.0
+  },
+  {
+    "fileName": "game_loginwindow.unity",
+    "md5": "787C5C750EE403E1F990575C71E57F09",
+    "size": 7.0
+  }
+]

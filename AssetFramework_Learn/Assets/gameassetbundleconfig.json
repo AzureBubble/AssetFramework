@@ -1,0 +1,116 @@
+{
+  "bundleInfoList": [
+    {
+      "path": "Assets/BundleDemo/Textures/Hall/Hall.jpg",
+      "crc": 2078783402,
+      "bundleName": "game_hall.unity",
+      "assetName": "Hall.jpg",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Hall/majiang.png",
+      "crc": 321051425,
+      "bundleName": "game_hall.unity",
+      "assetName": "majiang.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Hall/niuniu.png",
+      "crc": 2805642435,
+      "bundleName": "game_hall.unity",
+      "assetName": "niuniu.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Hall/Server.png",
+      "crc": 1192593796,
+      "bundleName": "game_hall.unity",
+      "assetName": "Server.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Hall/Setting.png",
+      "crc": 3498502207,
+      "bundleName": "game_hall.unity",
+      "assetName": "Setting.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Hall/Share.png",
+      "crc": 3035262688,
+      "bundleName": "game_hall.unity",
+      "assetName": "Share.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Hall/Shop.png",
+      "crc": 702205520,
+      "bundleName": "game_hall.unity",
+      "assetName": "Shop.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Hall/UP.png",
+      "crc": 3284374851,
+      "bundleName": "game_hall.unity",
+      "assetName": "UP.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Login/13zhang.png",
+      "crc": 662770375,
+      "bundleName": "game_login.unity",
+      "assetName": "13zhang.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Login/Bank.png",
+      "crc": 2467871559,
+      "bundleName": "game_login.unity",
+      "assetName": "Bank.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Login/Box.png",
+      "crc": 2901509456,
+      "bundleName": "game_login.unity",
+      "assetName": "Box.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Login/Down.png",
+      "crc": 3916502462,
+      "bundleName": "game_login.unity",
+      "assetName": "Down.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Login/Gold.png",
+      "crc": 1147140260,
+      "bundleName": "game_login.unity",
+      "assetName": "Gold.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Login/kou.png",
+      "crc": 239353262,
+      "bundleName": "game_login.unity",
+      "assetName": "kou.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Textures/Login/level.png",
+      "crc": 2267444583,
+      "bundleName": "game_login.unity",
+      "assetName": "level.png",
+      "bundleDependenciesList": []
+    },
+    {
+      "path": "Assets/BundleDemo/Prefabs/Window/LoginWindow.prefab",
+      "crc": 980048579,
+      "bundleName": "game_loginwindow.unity",
+      "assetName": "LoginWindow.prefab",
+      "bundleDependenciesList": []
+    }
+  ]
+}
